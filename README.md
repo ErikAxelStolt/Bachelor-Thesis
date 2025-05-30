@@ -14,10 +14,6 @@ Reviewer: Sayantani Bhattacharya
 Examiner: Martin Sjödin
 
 
-# Abstract
-something
-
-
 This project investigates how chaos, a hallmark of nonlinear dynamical systems, manifests in machine learning models trained to predict such systems. Specifically, we analyze Recurrent Neural Networks (RNNs) trained to forecast the motion of a simple pendulum (regular) and a double pendulum (chaotic).
 
 To study this, we define and compute two types of Finite-Time Lyapunov Exponents (FTLEs) for the RNN:
