@@ -4,9 +4,13 @@ This repository contains the code and files for my bachelor's thesis:
 
 ## Finite-Time Lyapunov Exponents in Recurrent Neural Networks: Analyzing Chaos in RNN Forecasts of Dynamical Systems
 Erik Stolt & Abbe Tanndal
+
 Uppsala University, Engineering Physics (2025)
+
 Supervisor: Magdalena Larfors
+
 Reviewer: Sayantani Bhattacharya
+
 Examiner: Martin Sjödin
 
 
