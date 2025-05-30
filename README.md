@@ -1,6 +1,6 @@
 # Finite-Time Lyapunov Exponents in Recurrent Neural Networks
 
-This repository contains the code and LaTeX source for our bachelor's thesis:
+This repository contains the code and files for my bachelor's thesis:
 
 ## Finite-Time Lyapunov Exponents in Recurrent Neural Networks: Analyzing Chaos in RNN Forecasts of Dynamical Systems
 Erik Stolt & Abbe Tanndal
