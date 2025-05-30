@@ -32,7 +32,7 @@ We found that:
 
 * There is a positive correlation between the FTLEs of the RNN and the true Lyapunov exponent of the system it models.
 
-These results suggest that RNNs not only approximate trajectories but also inherit the chaotic structure of the dynamical systems they are trained on—offering a new perspective on how complexity is encoded in neural models.
+These results suggest that RNNs not only approximate trajectories but also inherit the chaotic structure of the dynamical systems they are trained on, offering a new perspective on how complexity is encoded in neural models.
 
 
 
